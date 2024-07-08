@@ -1,8 +1,8 @@
 # 🏦 Banco Digital 
 
-➡️ Este projeto Java, "Banco Digital", simula o funcionamento básico de um banco digital. 
+➡️ Este projeto Java, "Banco Digital", simula o funcionamento básico de um banco digital.
 
-➡️ Ele inclui classes para gerenciar clientes, contas bancárias (como contas correntes e poupança) e define comportamentos padrão usando interfaces.
+➡️ Ele inclui classes para gerenciar clientes, contas bancárias (como contas correntes e poupança) e define comportamentos padrões usando interfaces.
 
 ➡️ A classe principal "Main" coordena as operações bancárias e a interação do usuário.
 
